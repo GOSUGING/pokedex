@@ -81,7 +81,7 @@ $(document).ready(function(){
                             <h5>name: ${myPokemon.name}</h5>
                         </div>
                         <ul class="list-group list-group-flush">
-                            <li class="list-group-item">base_experience: ${myPokemon.base_experience}</li>
+                            <li class="list-group-item">Experiencia Base: ${myPokemon.base_experience}</li>
                             <li class="list-group-item">height: ${myPokemon.height}</li>
                             <li class="list-group-item">weight: ${myPokemon.weight}</li>
                             <li class="list-group-item">types: ${typesString}</li>
