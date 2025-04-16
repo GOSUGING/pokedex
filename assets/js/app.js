@@ -47,7 +47,7 @@ $(document).ready(function(){
                     name: data.name,
                     height: data.height,
                     weight: data.weight,
-                    basexperience: data.base_experience,
+                    base_experience: data.base_experience,
                     types: data.types,
                     stats: data.stats // Array de estadísticas del Pokémon
                 };
